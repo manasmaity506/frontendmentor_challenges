@@ -53,6 +53,10 @@ main{
     width: 100%;
 }
 
+.link-group:hover{
+    background-color: hsl(0, 0%, 30%);
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -60,4 +64,16 @@ main{
 }
 .attribution a {
   color: hsl(228, 82%, 74%);
+}
+
+@media screen and (max-width: 868px) {
+    main{    
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 556px) {
+    main{    
+        width: 80%;
+    }
 }

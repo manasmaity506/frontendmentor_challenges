@@ -1,0 +1,18 @@
+
+
+
+
+social links profile:
+github:
+https://github.com/manasmaity506/frontendmentor_challenges/tree/main/social-links-profile-main
+
+domain:
+https://manasmaitydev_social_links.surge.sh/
+
+Blog preview card:
+domain:
+https://blog_preview_card.surge.sh/
+
+QR code component:
+domain:
+https://qr_card.surge.sh/
