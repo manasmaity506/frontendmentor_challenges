@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(30, 54%, 90%);
+    line-height: 1.5;
+    font-family: "Outfit", sans-serif;
+}
+
+.page-content{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem auto;
+    width: 60%;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+.page-title .image-omelette img{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 1rem;
+}
+
+
+.page-title h1,
+.page-title p{
+    margin: 1rem auto;
+}
+
+.preparation-time{
+  padding: 1rem;
+  background-color: hsl(330, 100%, 98%);
+  border-radius: 1rem;
+}
+
+.preparation-time-title{
+  color: hsl(332, 51%, 32%);
+}
+
+.preparation-time ul{
+  padding: 0.4rem;
+}
+
+.preparation-time ul li{
+  padding-left: 1rem;
+  list-style: inside;
+}
+
+.ingredients{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.ingredients ul{
+  padding: 0.4rem;
+}
+
+.ingredients ul li{
+  padding-left: 0.023rem;
+  list-style-position: inside;
+}
+
+hr{
+  margin: 1rem 0;
+}
+
+.instructions-title{
+  margin: 1rem 0;
+}
+
+.instructions ol{
+  padding: 0 1rem;
+}
+
+.instructions ol li{
+  padding-left: 0.023rem;
+  list-style-position: outside ;
+}
+
+li::marker{
+  color: hsl(332, 51%, 32%);
+  font-weight: bold;
+}
+
+.nutrition-title{
+  margin: 1rem 0;
+}
+
+.nutrition-description{
+  margin-bottom: 1rem;
+}
+
+.nutrition-table{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.nutrition-table tr{
+  border-bottom: 1px solid hsl(24, 5%, 18%);
+  line-height: 2rem;
+}
+
+.nutrition-table td{
+  padding-left: 1rem;
+}
+
+.nutrition-table .brown{
+  color: hsl(332, 51%, 32%);
+  font-weight: bold;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+h2{
+  color: hsl(14, 45%, 36%);
+}
+
+@media screen and (max-width: 768px) {
+  .page-content{
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .page-content{  
+    width: 97%;
+    margin: 0 auto;
+  }
+  
+}

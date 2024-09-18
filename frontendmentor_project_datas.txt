@@ -2,6 +2,14 @@
 
 
 
+
+Recipe Page:
+github:
+
+
+domain:
+https://recipe_page_manasmaitydev.surge.sh/
+
 social links profile:
 github:
 https://github.com/manasmaity506/frontendmentor_challenges/tree/main/social-links-profile-main
