@@ -5,22 +5,25 @@
 
 Recipe Page:
 github:
-
+https://github.com/manasmaity506/frontendmentor_challenges/tree/main/recipe-page-main
 
 domain:
-https://recipe_page_manasmaitydev.surge.sh/
+https://recipeomelette.surge.sh
 
 social links profile:
 github:
 https://github.com/manasmaity506/frontendmentor_challenges/tree/main/social-links-profile-main
 
 domain:
-https://manasmaitydev_social_links.surge.sh/
+https://manasmaitydev-social-links.pages.dev/
+working
 
 Blog preview card:
 domain:
 https://blog_preview_card.surge.sh/
+Not working
 
-QR code component:
+QR code component
 domain:
 https://qr_card.surge.sh/
+Not Working
