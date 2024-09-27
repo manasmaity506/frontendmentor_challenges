@@ -8,8 +8,8 @@ This Repository will contain every basic stock projects I make from the [fronten
 
 
 * Getting Started on Frontend Mentor
-    * [Social Links Profile] (https://manasmaitydev-social-links.pages.dev/)
-    * [Simple Recipe Page] (https://recipeomelette.surge.sh/) 
+    * [Social Links Profile](https://manasmaitydev-social-links.pages.dev/)
+    * [Simple Recipe Page](https://recipeomelette.surge.sh/) 
 
 * Building Responsive Layouts
 

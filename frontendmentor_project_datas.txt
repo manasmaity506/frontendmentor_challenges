@@ -2,6 +2,13 @@
 
 
 
+product preview card:
+github:
+https://github.com/manasmaity506/frontendmentor_challenges/tree/main/product-preview-card-component-main
+
+domain:
+
+
 
 Recipe Page:
 github:
